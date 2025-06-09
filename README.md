@@ -21,7 +21,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [Try It Now → Visit](https://swn-ai.netlify.app)
+🔗 [Try It Now → Visit](https://swndyy.github.io/Swnn-AI/)
 
 ---
 
@@ -29,11 +29,12 @@
 
 ```bash
 Swn-AI/
-├── assets/
+├── src/
 │   └── images/
 │       └── swn-img.png       # App logo
+│   └── js/
+│       └── main.js       # AI System
 ├── index.html                # Main UI
-├── index.js                  # App logic
 └── README.md                 # Project description
 ```
 
@@ -56,4 +57,4 @@ Swn-AI/
 
 ---
 
-Crafted by [@swndyyy](https://github.com/swndyyy) – simple, smart, and stylish.
+Crafted by [SennaUwouu](https://github.com/swndyy) – simple, smart, and stylish.
