@@ -981,7 +981,7 @@ document.addEventListener('DOMContentLoaded', () => {
             placeholder.style.paddingLeft = '20px';
             placeholder.style.margin = '0.1em 0';
             placeholder.style.color = 'var(--placeholder-color)';
-            placeholder.textContent = 'Generating code block...';
+            placeholder.textContent = 'Preparing code...';
             element.appendChild(placeholder);
             setTimeout(() => {
                 if (appState.currentAbortController && appState.currentAbortController.signal.aborted) {
